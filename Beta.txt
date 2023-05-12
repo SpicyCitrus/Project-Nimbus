@@ -1,1 +1,1 @@
-Project Nimbus is currently at v1.2 in its development please be patient as its being worked on everyday single handedly by me and it will take a long time to perfect
+Adding a auto move system for servers that dont support tpa in version 1.5 beta release
