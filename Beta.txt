@@ -1,1 +1,6 @@
-Adding a auto move system for servers that dont support tpa in version 1.5 beta release
+Upcoming updates to Project Nimbus:
+1 Adding a ~location command: allows the bot owner/server owner to know where the bot is at all times
+2 Adding a ~tpa command: allows players who are on a speciel whitelist to tpa to the bot for easy restock of the shulker boxes
+3 Adding a ~info command: allows a player to get imformation on the bot such as offical creator,discord support server, and version the bot is running
+4 Adding a ~panic command: allows players whos on a speciel whitelist to force the bot to crash itself in case of emergency
+most to all features should be added in Project Nimbus v1.7
