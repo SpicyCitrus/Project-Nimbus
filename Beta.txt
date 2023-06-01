@@ -5,7 +5,7 @@ Upcoming updates to Project Nimbus:
 4 Adding a ~panic command: allows players whos on a speciel whitelist to force the bot to crash itself in case of emergency
 most to all features should be added in Project Nimbus v1.7
 
-Added The Ability For The Bot To Look In All 4 Directrens For Easier Calibration
+Added The Ability For The Bot To Look In All 4 Directions For Easier Calibration
 Added GitHub Discord Intergration
 Added a order completion notifacation to the bot owner so the bot owner can get a status on the bots work
 Added a ability to move after its death
