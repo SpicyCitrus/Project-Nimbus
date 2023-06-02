@@ -12,5 +12,5 @@ Any use of the bot in a harmful way is not allowed.
 ### Are my coords safe?/logged in any way?
 >  - No, your coords are not logged.
 # Terms Of Service
->  . Under no circumstances will you use our service for bad intentions.
+>  - Under no circumstances will you use our service for bad intentions.
 
