@@ -5,3 +5,7 @@ Any plagierism of the bot is not allowed in any way.
 Any unauthorized use of the bot is not allowed.
 Any use of the bot in a harmful way is not allowed.
 
+# FAQ
+### Where is the code?
+> - The project is currently not open sourced due to the people that are gonna steal the code and claim it as theirs
+
