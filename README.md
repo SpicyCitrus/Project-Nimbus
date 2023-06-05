@@ -19,3 +19,8 @@ Any use of the bot in a harmful way is not allowed.
 > - Project Nimbus is under copyright and any TOS breaks may result in possible legal action 
 > - Project Nimbus 2020-2023
 
+![GitHub all releases](https://img.shields.io/github/downloads/SpicyCitrus/Project-Nimbus/total?style=flat-square)
+![Discord](https://img.shields.io/discord/1074057479312396298?style=flat-square)
+![GitHub last commit](https://img.shields.io/github/last-commit/SpicyCitrus/Project-Nimbus?style=flat-square)
+
+
