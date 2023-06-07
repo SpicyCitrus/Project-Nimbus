@@ -13,7 +13,7 @@ Any use of the bot in a harmful way is not allowed.
 >  - No, your coords are not logged.
 # Terms Of Service
 >  - Under no circumstances will you use our service for bad intentions.
->  - Modifacation and republishment of Project Nimbus is not allowed.
+>  - Modification and republishment of Project Nimbus is not allowed.
 >  - Stealing/Cracking Project Nimbus is not allowed.
 # Copyright
 > - Project Nimbus is under copyright and any breaking the TOS without permission may result in legal action. 
