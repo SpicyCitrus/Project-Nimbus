@@ -12,7 +12,7 @@ Any use of the bot in a harmful way is not allowed.
 ### Are my coords safe?/logged in any way?
 >  - No, your coords are not logged.
 ### Why is the bot offline?
->  - The bot may be offline for a maintenence or the account is used somewhere else
+>  - The bot may be offline for a period of time as maintenance to code the bot, The bot also may be offline if the account is used somewhere else.
 # Terms Of Service
 >  - Under no circumstances will you use our service for bad intentions.
 >  - Modification and republishment of Project Nimbus is not allowed.
