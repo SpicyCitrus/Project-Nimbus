@@ -11,6 +11,8 @@ Any use of the bot in a harmful way is not allowed.
 > - The project is currently not open sourced due to the people that are gonna steal the code and claim it as theirs.
 ### Are my coords safe?/logged in any way?
 >  - No, your coords are not logged.
+>  ### Why is the bot offline?
+>  - The bot may be offline for a maintenence or the account is used somewhere else
 # Terms Of Service
 >  - Under no circumstances will you use our service for bad intentions.
 >  - Modification and republishment of Project Nimbus is not allowed.
