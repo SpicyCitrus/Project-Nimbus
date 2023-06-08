@@ -18,8 +18,8 @@ Any use of the bot in a harmful way is not allowed.
 >  - Modification and republishment of Project Nimbus is not allowed.
 >  - Stealing/Cracking Project Nimbus is not allowed.
 # Copyright
-> - Project Nimbus is under copyright and any breaking the TOS without permission may result in legal action. 
-> ProjectNimbus 2020-2023
+> - Project Nimbus is under copyright and any breaking of the TOS without permission may result in legal action. 
+> Project Nimbus 2020-2023
 
 ![GitHub all releases](https://img.shields.io/github/downloads/SpicyCitrus/Project-Nimbus/total?style=flat-square)
 ![Discord](https://img.shields.io/discord/1074057479312396298?style=flat-square)
