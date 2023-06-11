@@ -1,5 +1,3 @@
 Upcoming updates to Project Nimbus:
-1 Adding a ~location command: allows the bot owner/server owner to know where the bot is
-2 Adding a ~tpa command: allows players who are on a special whitelist to tpa to the bot
-3 Adding a ~info command: allows a player to get information on the bot such as offical creator, discord support server, and version the bot is running
+1 Adding a ~info command: allows a player to get information on the bot such as offical creator, discord support server, and version the bot is running
 Most to all features should be added in Project Nimbus v1.7
