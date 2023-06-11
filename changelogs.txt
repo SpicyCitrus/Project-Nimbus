@@ -4,3 +4,4 @@ Changelogs:
 + Added order completion notification to the bot owner(s)
 + Added the ability to move after the bot's death
 + Fixed some bugs to the updates in v1.6
++ Added The Ability For Players On A Special Whitelist To Be Tped To The Bot When Requested This Allows Bot Staff To Do Routine Maintenence
