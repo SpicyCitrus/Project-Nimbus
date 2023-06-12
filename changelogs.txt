@@ -5,3 +5,4 @@ Changelogs:
 + Added the ability to move after the bot's death
 + Fixed some bugs to the updates in v1.6
 + Added a whitelist-only feature to TP to the stash
++ Added ~help for a list of working commands
