@@ -1,3 +1,4 @@
 Upcoming updates to Project Nimbus:
 1 Adding a ~info command: allows a player to get information on the bot such as offical creator, discord support server, and version the bot is running
+2 Adding a feature where the bot /kills itself once tpa is requested this will alow players to get there kits faster
 Most to all features should be added in Project Nimbus v1.7
