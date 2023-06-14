@@ -10,6 +10,9 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 >  - No, your coords are not logged.
 ### Why is the bot offline?
 >  - The bot may be offline for a period of time as maintenance to code the bot, The bot also may be offline if the account is used somewhere else.
+### - How do i check the bots status?
+> - Go to our discord server and check if our discord bot is online. If it is then the bot is running
+> ![](Images/discordbot.png)
 # Terms Of Service
 >  - Under no circumstances will you use our service for bad intentions.
 >  - Modification and republishment of Project Nimbus is not allowed.
