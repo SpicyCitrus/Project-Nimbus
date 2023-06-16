@@ -1,0 +1,11 @@
+5b5t Compatibility Test Results:
+
+Server IP: 5b5t.me
+
+TPA = OFF
+
+Private Messaging = Broken
+
+Messanger = ON
+_______________________
+5b5t.me = Broken

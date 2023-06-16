@@ -1,0 +1,11 @@
+0b0t Compatibility Test Results:
+
+Server IP: 0b0t.org
+
+TPA = ON
+
+Private Messaging = Broken
+
+Messanger = ON
+_______________________
+0b0t.org = semi working

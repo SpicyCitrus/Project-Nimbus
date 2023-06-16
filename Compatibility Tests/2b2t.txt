@@ -1,0 +1,11 @@
+2b2t Compatibility Test Results:
+
+Server IP: 2b2t.org
+
+TPA = OFF
+
+Private Messaging = Broken
+
+Messanger = ON
+_______________________
+2b2t.org = Broken
