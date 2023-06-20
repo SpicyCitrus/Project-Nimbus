@@ -2,10 +2,10 @@ Minehut Compatibility Test Results:
 
 Server IP: Minehut.com
 
-TPA = ON/oFF
+TPA = on/off
 
 Private Messaging = Broken
 
-Messanger = ON
+Messenger = ON
 _______________________
-Minehut = semi working depending on server
+Minehut = Depends on server
