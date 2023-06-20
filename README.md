@@ -13,6 +13,9 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 ### - How do I check the bots status?
 > - Go to our discord server and check the bot "Archive Bot" is online. This correlates to the bot.
 > ![](Images/discordbot.png)
+### - How do I check the github logs?
+> - Either check it on github, or join the discord and go to #git-logs.
+> - ![](Images/gitlogs.png)
 # Terms Of Service
 >  - Under no circumstances will you use our service for bad intentions.
 >  - Modification and republishment of Project Nimbus is not allowed.
