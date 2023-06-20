@@ -6,6 +6,6 @@ TPA = OFF
 
 Private Messaging = Broken
 
-Messanger = ON
+Messenger = ON
 _______________________
 5b5t.me = Broken
