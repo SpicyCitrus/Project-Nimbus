@@ -17,7 +17,7 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 > - Either check it on github, or join the discord and go to #git-logs.
 > - This will give you a notification each time the github gets changed.
 > 
-![](Images/gitlogs.png)
+> ![](Images/gitlogs.png)
 # Terms Of Service
 >  - Under no circumstances will you use our service for bad intentions.
 >  - Modification and republishment of Project Nimbus is not allowed.
