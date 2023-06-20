@@ -11,7 +11,7 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 ### Why is the bot offline?
 >  - The bot may be offline for a period of time as maintenance to code the bot, The bot also may be offline if the account is used somewhere else.
 ### - How do I check the bots status?
-> - Go to our discord server and check the bot "Archive Bot" is online. If it is offline, it will be offline.
+> - Go to our discord server and check the bot "Archive Bot" is online. This correlates to the bot.
 > ![](Images/discordbot.png)
 # Terms Of Service
 >  - Under no circumstances will you use our service for bad intentions.
