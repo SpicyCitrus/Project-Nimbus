@@ -6,6 +6,6 @@ TPA = ON
 
 Private Messaging = Broken
 
-Messanger = ON
+Messenger = ON
 _______________________
 0b0t.org = semi working
