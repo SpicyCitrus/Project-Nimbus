@@ -15,6 +15,7 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 > ![](Images/discordbot.png)
 ### - How do I check the github logs?
 > - Either check it on github, or join the discord and go to #git-logs.
+> - This will give you a notification each time the github gets changed.
 > 
 ![](Images/gitlogs.png)
 # Terms Of Service
