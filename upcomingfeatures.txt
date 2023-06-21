@@ -1,3 +1,3 @@
 Upcoming updates to Project Nimbus:
-No Current Upcoming Updates
+Adding ~server to Archive Bot. This allows users in the discord to know what server the bot in currently being used on
 Most to all features should be added in Project Nimbus v1.7
