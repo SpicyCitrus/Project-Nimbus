@@ -6,4 +6,5 @@ Changelogs:
 + Fixed some bugs to the updates in v1.6
 + Added a whitelist-only feature to TP to the stash
 + Added ~help for a list of working commands
++ Added Bug Reports channel in the discord server
 Current Version: 1.6.7
