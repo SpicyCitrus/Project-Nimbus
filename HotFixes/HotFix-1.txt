@@ -1,0 +1,4 @@
+ProjectNimbus would crash apon launch due to thread overload
+____________________________________________________________
+
+Current Fix: Load API files slowly to reduce fast overload of the API
