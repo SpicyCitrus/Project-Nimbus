@@ -7,4 +7,5 @@ Changelogs:
 + Added a whitelist-only feature to TP to the stash
 + Added ~help for a list of working commands
 + Added Bug Reports channel in the discord server
++ Added HotFixes folder to GitHub
 Current Version: 1.6.7
