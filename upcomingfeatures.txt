@@ -1,3 +1,4 @@
 Upcoming updates to Project Nimbus:
 Adding ~server to Archive Bot. This allows users in the discord to know what server the bot in currently being used on
+(planned not confirmed) Adding a ~letschat. Allows players ingame to talk to a inbuilt AI model for simple chats
 Most to all features should be added in Project Nimbus v1.7
