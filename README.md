@@ -18,7 +18,7 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 > - This will give you a notification each time the github gets changed.
 > 
 > ![](Images/gitlogs.png)
-> ### Can i hire the kitbot on my private server/smp?
+ ### Can i hire the kitbot on my private server/smp?
 > - Yes you can. To do this go to the discord server and message any of the helpers (if they arnt a bot) and ask them for a hiring
 ### Terms Of Service
 >  - Under no circumstances will you use our service for bad intentions.
