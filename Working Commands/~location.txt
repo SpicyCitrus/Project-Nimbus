@@ -1,0 +1,1 @@
+~location allows the user to get the coords of the bots current location

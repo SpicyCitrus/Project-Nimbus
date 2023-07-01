@@ -1,0 +1,1 @@
+~source allows the user to visit the offical github page for the bot

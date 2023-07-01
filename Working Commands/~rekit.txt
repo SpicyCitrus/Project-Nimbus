@@ -1,0 +1,1 @@
+~rekit is the offical command for the kitbot to send a kit to the user
