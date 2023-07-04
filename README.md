@@ -7,7 +7,7 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 ### Where is the code?
 > - The project is currently not open sourced due to the people that are gonna steal the code and claim it as theirs.
 ### Are my coords safe?/logged in any way?
->  - No, your coords are not logged.
+>  - No, your coords are not logged. In fact there not even shown to the creators
 ### Why is the bot offline?
 >  - The bot may be offline for a period of time as maintenance to code the bot, The bot also may be offline if the account is used somewhere else.
 ### - How do I check the bots status?
