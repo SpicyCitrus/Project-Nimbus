@@ -22,6 +22,9 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 > - Yes you can. To do this go to the discord server and message any of the helpers (if they arnt a bot) and ask them for a hiring
 ### How to build/install projectnimbus
 > - You dont
+### Im a coder and would like to help with the project. How do i apply?
+> - At the moment project nimbus is only sourced between the creators
+> - Also project nimbus is not currently hiring any coders at the moment
 ### Terms Of Service
 >  - Under no circumstances will you use our service for bad intentions.
 >  - Modification and republishment of Project Nimbus is not allowed.
