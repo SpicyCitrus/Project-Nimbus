@@ -18,13 +18,12 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 > - This will give you a notification each time the github gets changed.
 > 
 > ![](Images/gitlogs.png)
- ### Can i hire the kitbot on my private server/smp?
-> - Yes you can. To do this go to the discord server and message any of the helpers (if they arnt a bot) and ask them for a hiring
-### How to build/install projectnimbus
-> - You dont
-### Im a coder and would like to help with the project. How do i apply?
-> - At the moment project nimbus is only sourced between the creators
-> - Also project nimbus is not currently hiring any coders at the moment
+ ### Can I get the kitbot on my server?
+> - Yes you can, To do this go to the discord server and message any of the helpers and ask them.
+### How to optain the code of Project Nimbus?
+> - You don't
+### I'm a coder and would like to help the project, how may I help?
+> - Currently ProjectNimbus is being sourced with the owners, applications are not open.
 ### Terms Of Service
 >  - Under no circumstances will you use our service for bad intentions.
 >  - Modification and republishment of Project Nimbus is not allowed.
