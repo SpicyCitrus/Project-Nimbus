@@ -18,6 +18,8 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 > - This will give you a notification each time the github gets changed.
 > 
 > ![](Images/gitlogs.png)
+> Or you may use this channel to monitor the project downtime automaticly
+> ![](projectnimbusdowntime.png)
  ### Can I get the kitbot on my server?
 > - Yes you can, To do this go to the discord server and message any of the helpers and ask them.
 ### How to optain the code of Project Nimbus?
