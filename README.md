@@ -32,7 +32,7 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 ### Privacy Policy
 > - Your minecraft username will be collected to be used as the average player usage count.
 > - Your discord username will be collected to be used for support team graphs and training.
-> - your discord messages may be used as training for support staff. 
+> - Your discord messages may be used as training for support staff. 
 ### Copyright
 > - Project Nimbus is under copyright and any breaking of the TOS without permission may result in legal action. 
 > Project Nimbus 2020-2023
