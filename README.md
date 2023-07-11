@@ -13,13 +13,13 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 ### - How do I check the bots status?
 > - Go to our discord server and check the bot "Archive Bot" is online. This correlates to the bot.
 > ![](Images/discordbot.png)
+
+> ![](Images/projectnimbusdowntime.png)
 ### - How do I check the github logs?
 > - Either check it on github, or join the discord and go to #git-logs.
 > - This will give you a notification each time the github gets changed.
 > 
-> ![](Images/gitlogs.png)
-> Or you may use this channel to monitor the project downtime automaticly
-> ![](projectnimbusdowntime.png)
+> ![](Images/gitlogs.png) 
  ### Can I get the kitbot on my server?
 > - Yes you can, To do this go to the discord server and message any of the helpers and ask them.
 ### How to optain the code of Project Nimbus?
