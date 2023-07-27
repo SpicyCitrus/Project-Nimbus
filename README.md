@@ -1,7 +1,6 @@
 # Project-Nimbus
 A simple multi server kitbot for anarchy minecraft servers!
 Any issues/concerns with the bot can be reported in the discord: https://discord.gg/M8xVFn73FC
-###
 
 # FAQ
 ### Where is the code?
