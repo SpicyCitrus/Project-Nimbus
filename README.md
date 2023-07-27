@@ -21,8 +21,6 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 > ![](Images/gitlogs.png) 
 ### Can I get the kitbot on my server?
 > - Yes you can, To do this go to the discord server and message any of the helpers and ask them.
-### How to optain the code of Project Nimbus?
-> - You don't
 ### Our Current Top Users!
 > ![projectnimbusstats](Images/projectnimbusstats.png)
 ### I'm a coder and would like to help the project, how may I help?
