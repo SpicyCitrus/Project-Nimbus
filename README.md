@@ -23,6 +23,8 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 > - Yes you can, To do this go to the discord server and message any of the helpers and ask them.
 ### How to optain the code of Project Nimbus?
 > - You don't
+### Our Current Top Users!
+> ![projectnimbusstats](Images/projectnimbusstats.png)
 ### I'm a coder and would like to help the project, how may I help?
 > - Currently ProjectNimbus is being sourced with the owners, applications are not open.
 ### Terms Of Service
