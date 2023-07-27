@@ -19,7 +19,7 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 > - This will give you a notification each time the github gets changed.
 > 
 > ![](Images/gitlogs.png) 
- ### Can I get the kitbot on my server?
+### Can I get the kitbot on my server?
 > - Yes you can, To do this go to the discord server and message any of the helpers and ask them.
 ### How to optain the code of Project Nimbus?
 > - You don't
