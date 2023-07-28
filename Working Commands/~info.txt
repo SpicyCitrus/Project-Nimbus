@@ -1,1 +1,0 @@
-~info allows the user to get information about the bot
