@@ -1,1 +1,0 @@
-~help allows the user to get every single command that the bot has avalible 
