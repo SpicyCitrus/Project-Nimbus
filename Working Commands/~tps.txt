@@ -1,1 +1,0 @@
-~tps allows the user to get the average tps of the server the bots currently connected to
