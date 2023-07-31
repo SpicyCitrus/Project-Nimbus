@@ -9,4 +9,5 @@ Changelogs:
 + Added Bug Reports channel in the discord server
 + Added HotFixes folder to GitHub
 + Added Working Commands folder to GitHub
++ Added Semi Working ~letschat Feature
 Current Version: 1.6.7
