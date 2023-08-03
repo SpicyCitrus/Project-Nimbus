@@ -10,4 +10,5 @@ Changelogs:
 + Added HotFixes folder to GitHub
 + Added Working Commands folder to GitHub
 + Added Semi Working ~letschat Feature
++ Updated the tpa bot. Now automaticly denies unwhitelisted users. Can now hold up to 150 total users in the whitelist
 Current Version: 1.6.7
