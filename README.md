@@ -24,7 +24,7 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 ### Our Current Top Users!
 > ![projectnimbusstats](Images/projectnimbusstats.png)
 ### I'm a coder and would like to help the project, how may I help?
-> - Currently ProjectNimbus is being sourced with the owners, applications are not open.
+> - Currently ProjectNimbus is only being sourced with the owners, applications are not open.
 ### Terms Of Service
 >  - Under no circumstances will you use our service for bad intentions.
 >  - Modification and republishment of Project Nimbus is not allowed.
