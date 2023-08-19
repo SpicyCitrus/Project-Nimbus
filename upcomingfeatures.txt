@@ -1,3 +1,4 @@
 Upcoming updates to Project Nimbus:
 Adding ~server to Archive Bot. This allows users in the discord to know what server the bot in currently being used on
+(planned not confirmed) a ~dupeforme. this allows the player to give the bot 4 shulker boxes and dupe up to 16 of them
 Most to all features should be added in Project Nimbus v1.7
