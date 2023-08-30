@@ -1,0 +1,4 @@
+ProjectNimbus would often give players up to 9 kits at random
+____________________________________________________________
+
+Current Fix: Check if there is more then one kit in inventory if there is more then one kit the bot will remove all items in its inventory and then /kill to regain one kit leaving 1 kit in the kitbots inventory
