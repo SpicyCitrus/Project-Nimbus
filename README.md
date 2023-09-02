@@ -6,11 +6,11 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 ### Where is the code?
 > - The project is currently not open sourced due to the people that are gonna steal the code and claim it as theirs.
 ### Are my coords safe?/logged in any way?
->  - No, your coords are not logged. In fact there not even shown to the creators
+>  - No, your coords are not logged, you can tpa to spawn (moooomoooo) and use our kitbot there.
 ### Why is the bot offline?
 >  - The bot may be offline for a period of time as maintenance to code the bot, The bot also may be offline if the account is used somewhere else.
 ### - How do I check the bots status?
-> - Go to our discord server and check the bot "Archive Bot" is online. This correlates to the bot.
+> - Go to our discord server and check the bot "Archive Bot" is online. This correlates to the bot's status on the server.
 > ![](Images/discordbot.png)
 
 > ![](Images/projectnimbusdowntime.png)
@@ -20,7 +20,7 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 > 
 > ![](Images/gitlogs.png) 
 ### Can I get the kitbot on my server?
-> - Yes you can, To do this go to the discord server and message any of the helpers and ask them.
+> - Yes you can, to do this go to the discord server and message any of the helpers and ask them.
 ### Our Current Top Users!
 > ![projectnimbusstats](Images/projectnimbusstats.png)
 ### I'm a coder and would like to help the project, how may I help?
