@@ -6,7 +6,7 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 ### Where is the code?
 > - The project is currently not open sourced due to the people that are gonna steal the code and claim it as theirs.
 ### Are my coords safe?/logged in any way?
->  - No, your coords are not logged, you can tpa to spawn (moooomoooo) and use our kitbot there.
+>  - No, your coords are not logged, the data collected or sent to us is listed in the Privacy Policy, you can also tpa to spawn (moooomoooo) and use our kitbot there,
 ### Why is the bot offline?
 >  - The bot may be offline for a period of time as maintenance to code the bot, The bot also may be offline if the account is used somewhere else.
 ### - How do I check the bots status?
@@ -26,13 +26,19 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 ### I'm a coder and would like to help the project, how may I help?
 > - Currently ProjectNimbus is only being sourced with the owners, applications are not open.
 ### Terms Of Service
->  - Under no circumstances will you use our service for bad intentions.
->  - Modification and republishment of Project Nimbus is not allowed.
->  - Stealing/Cracking Project Nimbus is not allowed.
-### Privacy Policy
-> - Your minecraft username will be collected to be used as the average player usage count.
-> - Your discord username will be collected to be used for support team graphs and training.
-> - Your discord messages may be used as training for support staff. 
+- Don't try to crash or kick the bot, (anything negative to the bot)
+- Don't try to spam the bots kits, that will result in a blacklist.
+- Attempting to crack, gain trust of the owners to get the code, or try to modify the code.
+Breaking any of these will result in a blacklist.
+# Privacy Policy
+Data gathered is collected here.
+- All public chat messages and any messages to the bot.
+> All messages that the bot can log (above) will be sent to discord though a chat bridge, (meaning I can speak as the bot in discord, and can read any messages sent publicly)
+- Players names who leave and join 0b0t.org.
+> This is also sent through the chat bridge.
+- Usernames and amount of kits you request.
+> Used to make a public pie chart of the players and amounts of kits you request.
+- Any messages sent through the discord bot, (We might make it public)
 ### Copyright
 > - Project Nimbus is under copyright and any breaking of the TOS without permission may result in legal action. 
 > Project Nimbus 2020-2023
