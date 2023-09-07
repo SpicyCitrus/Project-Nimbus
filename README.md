@@ -29,7 +29,7 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 - Don't try to crash or kick the bot, (anything negative to the bot)
 - Don't try to spam the bots kits, that will result in a blacklist.
 - Attempting to crack, gain trust of the owners to get the code, or try to modify the code.
-Breaking any of these will result in a blacklist.
+> Breaking any of these will result in a blacklist.
 # Privacy Policy
 Data gathered is collected here.
 - All public chat messages and any messages to the bot.
