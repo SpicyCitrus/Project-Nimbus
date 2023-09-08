@@ -31,7 +31,7 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 - Attempting to crack, gain trust of the owners to get the code, or try to modify the code.
 > Breaking any of these will result in a blacklist.
 # Privacy Policy
-Data gathered is collected here.
+Data gathered is showed here.
 - All public chat messages and any messages to the bot.
 > All messages that the bot can log (above) will be sent to discord though a chat bridge, (meaning I can speak as the bot in discord, and can read any messages sent publicly)
 - Players names who leave and join 0b0t.org.
