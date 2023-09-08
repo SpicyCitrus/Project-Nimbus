@@ -2,7 +2,7 @@
 
 ## Supported Operating Systems
 
-This Graph shows all OS's that are compatible with project nimbus.
+This chart shows all OS's that are compatible with project nimbus.
 
 | OS | Supported |
 | ------- | ------------------ |
