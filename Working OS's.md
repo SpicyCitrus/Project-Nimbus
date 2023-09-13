@@ -15,3 +15,4 @@ This chart shows all OS's that are compatible with project nimbus.
 | NixOS   | :white_check_mark: |
 | Fedora   | :white_check_mark: |
 | CentOS   | :white_check_mark: |
+| TempleOS   | :white_check_mark: |
