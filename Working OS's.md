@@ -8,6 +8,7 @@ This chart shows all OS's that are compatible with project nimbus.
 | ------- | ------------------ |
 | Windows 10 | :white_check_mark: |
 | Windows 11   | :white_check_mark:|
+| Windows 7   | :x:|
 | ZorinOS   | :white_check_mark: |
 | Ubuntu   | :white_check_mark: |
 | Kali Linux   | :white_check_mark: |
@@ -19,3 +20,4 @@ This chart shows all OS's that are compatible with project nimbus.
 | AtlasOS   | :white_check_mark: |
 | PopOS   | :white_check_mark: |
 | AccessiblityCoconutOS   | :white_check_mark: |
+| TailsOS   | :white_check_mark: |
