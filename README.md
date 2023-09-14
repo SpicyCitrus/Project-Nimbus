@@ -22,7 +22,7 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 ### Can I get the kitbot on my server?
 > - Yes you can, to do this go to the discord server and message any of the helpers and ask them.
 ### Our Current Top Users!
-> ![projectnimbusstats](Images/projectnimbusstats.png)
+> ![projectnimbusstats](Images/9.14.2023.png)
 ### I'm a coder and would like to help the project, how may I help?
 > - Currently ProjectNimbus is only being sourced with the owners, applications are not open.
 ### What you can personally request
