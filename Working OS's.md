@@ -8,6 +8,8 @@ This chart shows all OS's that are compatible with project nimbus.
 | ------- | ------------------ |
 | Windows 10 | :white_check_mark: |
 | Windows 11   | :white_check_mark:|
+| Windows 8.1   | :x:
+| Windows 8   | :x:
 | Windows 7   | :x:|
 | ZorinOS   | :white_check_mark: |
 | Ubuntu   | :white_check_mark: |
