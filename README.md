@@ -42,7 +42,7 @@ Data gathered is showed here.
 > This is also sent through the chat bridge.
 - Usernames and amount of kits you request.
 > Used to make a public pie chart of the players and amounts of kits you request.
-- Any messages sent through the discord bot, (We might make it public)
+- Any messages sent through the discord bridge.
 ### Copyright
 > - Project Nimbus is under copyright and any breaking of the TOS without permission may result in legal action. 
 > Project Nimbus 2020-2023
