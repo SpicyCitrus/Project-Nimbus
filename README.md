@@ -31,6 +31,11 @@ The github is https://github.com/SpicyCitrus/Project-Nimbus
 - The Project Nimbus Team values your right to privacy. If you wish to request the following you may create a support ticket in the discord.
 > - You may request that your username is completly removed from all databases/logs of the bot (this includes all records so you will no longer be shown on our pie chart)
 > - You may request to not be filmed during interviews/meetings regarding Project Nimbus
+### i did ~rekit and its not giving me a kit
+- Here are some reasons why our bot may not being providing your kit
+> 1. You may have been blacklisted (contact support for more info on blacklistings)
+> 2. You may have a prefix on your client. Make sure ~rekit is the first and only word you type when requesting a kit
+> 3. You dont have ~ on your keyboard. Sadly not all keyboards come with the ~ key so you will notice we have provided the command "~rekit" in alot of the github page. So you can copy the command (crl+c crl+v) and still use our service 
 ### Terms Of Service
 - Don't try to crash or kick the bot, (anything negative to the bot)
 - Don't try to spam the bots kits, that will result in a blacklist.
