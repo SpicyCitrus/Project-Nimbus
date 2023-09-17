@@ -28,9 +28,9 @@ The github is https://github.com/SpicyCitrus/Project-Nimbus
 ### I'm a coder and would like to help the project, how may I help?
 > - Currently ProjectNimbus is only being sourced with the owners, applications are not open.
 ### What you can personally request
-> - The Project Nimbus Team values your right to privacy. If you wish to request the following you may create a support ticket in the discord.
-> - You may request that your username is completly removed from all databases/logs of the bot (this includes all records so you will no longer be shown on our pie chart)
-> - You may request to not be filmed during interviews/meetings regarding Project Nimbus
+ - The Project Nimbus Team values your right to privacy. If you wish to request the following you may create a support ticket in the discord.
+ - You may request that your username is completly removed from all databases/logs of the bot (this includes all records so you will no longer be shown on our pie chart)
+ - You may request to not be filmed during interviews/meetings regarding Project Nimbus
 ### Terms Of Service
 - Don't try to crash or kick the bot, (anything negative to the bot)
 - Don't try to spam the bots kits, that will result in a blacklist.
