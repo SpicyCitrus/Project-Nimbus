@@ -31,7 +31,9 @@ The github is https://github.com/SpicyCitrus/Project-Nimbus
 - The Project Nimbus Team values your right to privacy. If you wish to request the following you may create a support ticket in the discord.
 > - You may request that your username is completly removed from all databases/logs of the bot (this includes all records so you will no longer be shown on our pie chart)
 > - You may request to not be filmed during interviews/meetings regarding Project Nimbus
-### i did ~rekit and its not giving me a kit
+### How often does project nimbus get updates?
+> pretty often i would say
+### I did ~rekit and its not giving me a kit
 - Here are some reasons why our bot may not being providing your kit
 > 1. You may have been blacklisted (contact support for more info on blacklistings)
 > 2. You may have a prefix on your client. Make sure ~rekit is the first and only word you type when requesting a kit
@@ -54,8 +56,11 @@ Data gathered is showed here.
 > - Project Nimbus is under copyright and any breaking of the TOS without permission may result in legal action. 
 > Project Nimbus 2020-2023
 
-![GitHub all releases](https://img.shields.io/github/downloads/SpicyCitrus/Project-Nimbus/total?style=flat-square)
-![Discord](https://img.shields.io/discord/1074057479312396298?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/SpicyCitrus/Project-Nimbus?style=flat-square)
+![GitHub All Releases](https://img.shields.io/github/downloads/SpicyCitrus/Project-Nimbus/total?style=flat-square)
+![Discord Member Count](https://img.shields.io/discord/1074057479312396298?style=flat-square)
+![GitHub Last commit](https://img.shields.io/github/last-commit/SpicyCitrus/Project-Nimbus?style=flat-square)
+![Github Repo Stars](https://img.shields.io/github/stars/SpicyCitrus/Project-Nimbus)
+![GitHub Repo Forks](https://img.shields.io/github/forks/SpicyCitrus/Project-Nimbus)
+![Github Contributor Count](https://img.shields.io/github/contributors/SpicyCitrus/Project-Nimbus)
 
 
