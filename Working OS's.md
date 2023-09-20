@@ -14,6 +14,8 @@ This chart shows all OS's that are compatible with project nimbus.
 | Windows Vista   | :x: |
 | Windows XP   | :x:
 | Windows ME   | :x: |
+| Windows 95   | :x: |
+| Windows 98   | :x: |
 | ZorinOS   | :white_check_mark: |
 | Ubuntu   | :white_check_mark: |
 | Kali Linux   | :white_check_mark: |
@@ -26,3 +28,4 @@ This chart shows all OS's that are compatible with project nimbus.
 | PopOS   | :white_check_mark: |
 | AccessiblityCoconutOS   | :white_check_mark: |
 | TailsOS   | :white_check_mark: |
+| Arch Linux   | :white_check_mark: |
