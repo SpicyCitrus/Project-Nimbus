@@ -1,4 +1,5 @@
 Upcoming updates to Project Nimbus:
+Adding ~leave. This allows project-nimbus staff to force the bot out of the server just in case of a critical error
 Adding ~server to Archive Bot. This allows users in the discord to know what server the bot in currently being used on
 Adding ~rekit build.
 Adding ~rekit redstone.
