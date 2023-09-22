@@ -1,7 +1,6 @@
 Upcoming updates to Project Nimbus:
 Adding ~leave. This allows project-nimbus staff to force the bot out of the server just in case of a critical error
 Adding ~server to Archive Bot. This allows users in the discord to know what server the bot in currently being used on
-Adding ~rekit build.
-Adding ~rekit redstone.
-(planned not confirmed) a ~dupeforme. this allows the player to give the bot 4 shulker boxes and dupe up to 16 of them
+Adding ~rekit (other kit).
+(Planning) ~dupe. This allows the player to give the bot 4 shulker boxes and dupe up to 16 of them
 Most to all features should be added in Project Nimbus v1.7
