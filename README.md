@@ -38,6 +38,12 @@ The github is https://github.com/SpicyCitrus/Project-Nimbus
 > 1. You may have been blacklisted (contact support for more info on blacklistings)
 > 2. You may have a prefix on your client. Make sure ~rekit is the first and only word you type when requesting a kit
 > 3. You dont have ~ on your keyboard. Sadly not all keyboards come with the ~ key so you will notice we have provided the command "~rekit" in alot of the github page. So you can copy the command (crl+c crl+v) and still use our service 
+### How to identify a fake project-nimbus staff member
+- People may claim to be project-nimbus staff so heres how to tell if they are fake or not
+> 1. All project-nimbus staff are "Helper" role in the discord server
+> 2. True project-nimbus staff will never threten you about your coords
+> 3. Project-nimbus does not log/send coords to any staff or owners so if someone claims to have gotten coords from project-nimbus they are lying
+> 4. more coming soon
 ### Terms Of Service
 - Don't try to crash or kick the bot, (anything negative to the bot)
 - Don't try to spam the bots kits, that will result in a blacklist.
