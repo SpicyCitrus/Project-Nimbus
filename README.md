@@ -3,7 +3,16 @@ A simple multi server utility & kitbot for anarchy minecraft servers!
 Any issues/concerns with the bot can be reported in the discord: https://discord.gg/M8xVFn73FC
 # For people using the website:
 The github is https://github.com/SpicyCitrus/Project-Nimbus
-
+### BIG ANNOUCMENT!
+- Project-Nimbus 1.7 Rekeases in 2 days! the update will include the following!
+> - ~rekit build
+> - ~rekit totems
+> - more ~rekit commands comming
+> - Faster API speeds
+> - less bugs
+> - more advanced queue system
+> - More then 1 advertisement message
+> - more comming soon!
 # FAQ
 ### Where is the code?
 > - The project is currently not open sourced due to the people that are gonna steal the code and claim it as theirs.
