@@ -29,3 +29,4 @@ This chart shows all OS's that are compatible with project nimbus.
 | AccessiblityCoconutOS   | :white_check_mark: |
 | TailsOS   | :white_check_mark: |
 | Arch Linux   | :white_check_mark: |
+| RasberyPI OS   | :white_check_mark: |
