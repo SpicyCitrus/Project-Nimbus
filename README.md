@@ -12,7 +12,9 @@ The github is https://github.com/SpicyCitrus/Project-Nimbus
 > - less bugs
 > - more advanced queue system
 > - More then 1 advertisement message
-> - more comming soon!
+> - more OS compatibility
+> - more server compatibilty
+> - more coming soon
 # FAQ
 ### Where is the code?
 > - The project is currently not open sourced due to the people that are gonna steal the code and claim it as theirs.
