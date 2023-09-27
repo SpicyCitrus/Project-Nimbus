@@ -12,4 +12,5 @@ Changelogs:
 + Added Semi Working ~letschat Feature
 + Updated the tpa bot. Now automaticly denies unwhitelisted users. Can now hold up to 150 total users in the whitelist
 + Added ~whereisspicy. This allows the player to get information on why SpicyCitrus is not online.
+- removed ~whereisspicy. Reason: lagged bot
 Current Version: 1.6.7
