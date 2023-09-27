@@ -13,4 +13,5 @@ Changelogs:
 + Updated the tpa bot. Now automaticly denies unwhitelisted users. Can now hold up to 150 total users in the whitelist
 + Added ~whereisspicy. This allows the player to get information on why SpicyCitrus is not online.
 - removed ~whereisspicy. Reason: lagged bot
+- temp disabled ~help. Reason: kicked the bot
 Current Version: 1.6.7
