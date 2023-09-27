@@ -4,10 +4,10 @@ Any issues/concerns with the bot can be reported in the discord: https://discord
 # For people using the website:
 The github is https://github.com/SpicyCitrus/Project-Nimbus
 ### BIG ANNOUCMENT!
-- Project-Nimbus 1.7 releases in 2 days! The update will include the following:
-> - ~rekit build
-> - ~rekit totems
-> - More ~rekit commands comming
+- Project-Nimbus 1.7 releases in 1 days! The update will include the following:
+> - ~rkbuild
+> - ~rktotems
+> - ~rkxp
 > - Faster API speeds
 > - Less bugs
 > - More advanced queue system
