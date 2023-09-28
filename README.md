@@ -59,7 +59,6 @@ The github is https://github.com/SpicyCitrus/Project-Nimbus
 - Attempting to crack, gain trust of the owners to get the code, or try to modify the code.
 - Abusing a glitch in the code allowing more then 1 kit at a time.
 - Not reporting a glitch to the owners.
-- Spam requesting the bot of multible kits.
 > Breaking any of these will result in a blacklist.
 # Privacy Policy
 Data gathered is showed here.
