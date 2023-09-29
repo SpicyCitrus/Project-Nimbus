@@ -15,4 +15,7 @@ Changelogs:
 - removed ~whereisspicy. Reason: lagged bot
 - removed ~letschat. Reason: ram crashed the bot
 - temp disabled ~help. Reason: kicked the bot
-Current Version: 1.6.7
++ Added ~rkhighway
++ Added ~rkxp
++ added ~rktotems
+Current Version: 1.7.0
