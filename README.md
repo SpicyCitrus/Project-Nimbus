@@ -29,7 +29,6 @@ The github is https://github.com/SpicyCitrus/Project-Nimbus
 > - Either check it on github, or join the discord and go to #git-logs.
 > - This will give you a notification each time the github gets changed.
 > 
-> ![](Images/gitlogs.png) 
 ### Can I get the kitbot on my server?
 > - Yes you can, to do this go to the discord server and message any of the helpers and ask them.
 ### Our Current Top Users!
