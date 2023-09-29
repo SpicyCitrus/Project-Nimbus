@@ -7,9 +7,9 @@ This chart shows all OS's that are compatible with project nimbus.
 | OS | Supported |
 | ------- | ------------------ |
 | Windows 10 | :white_check_mark: |
-| Windows 11   | :white_check_mark:|
-| Windows 8.1   | :x:
-| Windows 8   | :x: |
+| Windows 11 | :white_check_mark:|
+| Windows 8.1  | :white_check_mark:|
+| Windows 8    | :white_check_mark:|
 | Windows 7   | :x:|
 | Windows Vista   | :x: |
 | Windows XP   | :x:
