@@ -31,7 +31,7 @@ The github is https://github.com/SpicyCitrus/Project-Nimbus
 > - You may request to not be filmed during interviews/meetings regarding Project Nimbus
 ### How often does project nimbus get updates?
 > pretty often i would say
-### I did ~rekit and its not giving me a kit
+### I did ~rekit,~rkxp,~rkhighway and ~rktotems and its not giving me a kit
 - Here are some reasons why our bot may not being providing your kit
 > 1. You may have been blacklisted (contact support for more info on blacklistings)
 > 2. You may have a prefix on your client. Make sure ~rekit is the first and only word you type when requesting a kit
