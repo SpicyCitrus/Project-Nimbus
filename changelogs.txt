@@ -17,5 +17,6 @@ Changelogs:
 - temp disabled ~help. Reason: kicked the bot
 + Added ~rkhighway
 + Added ~rkxp
-+ added ~rktotems
++ Added ~rktotems
++ Added the ability for the bot to drop the kit you requested if you did not accept the tpa in time. This will also reduce players getting more then 1 kit at a time
 Current Version: 1.7.0
