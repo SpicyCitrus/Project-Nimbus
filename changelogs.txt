@@ -19,6 +19,7 @@ Changelogs:
 + Added ~rkxp
 + Added ~rktotems
 + Added the ability for the bot to drop the kit you requested if you did not accept the tpa in time. This will also reduce players getting more then 1 kit at a time
++ ^^ same thing but the player denies the tpa request
 + Readded the ~help command
 + Corrected spelling mistakes in some commands
 Current Version: 1.7.0
