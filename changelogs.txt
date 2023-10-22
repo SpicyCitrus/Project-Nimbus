@@ -10,16 +10,15 @@ Changelogs:
 + Added HotFixes folder to GitHub
 + Added Working Commands folder to GitHub
 + Added Semi Working ~letschat Feature
-+ Updated the tpa bot. Now automaticly denies unwhitelisted users. Can now hold up to 150 total users in the whitelist
++ Updated the tpa bot. Now automatically denies unwhitelisted users. Can now hold up to 150 total users in the whitelist
 + Added ~whereisspicy. This allows the player to get information on why SpicyCitrus is not online.
-- removed ~whereisspicy. Reason: lagged bot
-- removed ~letschat. Reason: ram crashed the bot
-- temp disabled ~help. Reason: kicked the bot
+- removed ~whereisspicy because it lagged the bot.
+- removed ~letschat because it ram crashed the bot.
+- temp disabled ~help because it kicked the bot
 + Added ~rkhighway
 + Added ~rkxp
 + Added ~rktotems
-+ Added the ability for the bot to drop the kit you requested if you did not accept the tpa in time. This will also reduce players getting more then 1 kit at a time
-+ ^^ same thing but the player denies the tpa request
++ Added dropping the kit if you don't accept/deny the tpa
 + Readded the ~help command
 + Corrected spelling mistakes in some commands
 Current Version: 1.7.0
