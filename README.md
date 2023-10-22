@@ -27,10 +27,10 @@ The github is https://github.com/SpicyCitrus/Project-Nimbus
 > - Currently ProjectNimbus is only being sourced with the owners, applications are not open.
 ### What you can personally request
 - The Project Nimbus Team values your right to privacy. If you wish to request the following you may create a support ticket in the discord.
-> - You may request that your username is completly removed from all databases/logs of the bot (this includes all records so you will no longer be shown on our pie chart)
+> - You may request that your username is completely removed from all databases/logs of the bot (this includes all records so you will no longer be shown on our pie chart)
 > - You may request to not be filmed during interviews/meetings regarding Project Nimbus
-### How often does project nimbus get updates?
-> pretty often i would say
+### How often does Project Nimbus get updates?
+> Pretty often
 ### I did ~rekit,~rkxp,~rkhighway and ~rktotems and its not giving me a kit
 - Here are some reasons why our bot may not being providing your kit
 > 1. You may have been blacklisted (contact support for more info on blacklistings)
@@ -38,10 +38,9 @@ The github is https://github.com/SpicyCitrus/Project-Nimbus
 > 3. You dont have ~ on your keyboard. Sadly not all keyboards come with the ~ key so you will notice we have provided the command "~rekit" in alot of the github page. So you can copy the command (crl+c crl+v) and still use our service 
 ### How to identify a fake project-nimbus staff member
 - People may claim to be project-nimbus staff so heres how to tell if they are fake or not
-> 1. All project-nimbus staff are "Helper" role in the discord server
-> 2. True project-nimbus staff will never threten you about your coords
-> 3. Project-nimbus does not log/send coords to any staff or owners so if someone claims to have gotten coords from project-nimbus they are lying
-> 4. more coming soon
+> 1. All Project Nimbus staff have Helper role in the 0b0t archive discord server
+> 2. Project-Nimbus staff will never ask you for your coords.
+> 3. Project-Nimbus does not log/obtain coordnates, read the Privacy Policy for more info
 ### Terms Of Service
 - Don't try to crash or kick the bot, (anything negative to the bot)
 - Don't try to spam the bots kits, that will result in a blacklist.
