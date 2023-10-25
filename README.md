@@ -12,7 +12,7 @@ The github is https://github.com/SpicyCitrus/Project-Nimbus
 >  - The bot may be offline for a period of time as maintenance to code the bot, The bot also may be offline if the account is used somewhere else.
 ### - How do I check the bots status?
 > - Go to our discord server and check the bot "Archive Bot" is online. This correlates to the bot's status on the server.
-> - 
+> 
 > ![](Images/discordbot.png)
 
 > ![](Images/projectnimbusdowntime.png)
