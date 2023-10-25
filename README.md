@@ -12,6 +12,7 @@ The github is https://github.com/SpicyCitrus/Project-Nimbus
 >  - The bot may be offline for a period of time as maintenance to code the bot, The bot also may be offline if the account is used somewhere else.
 ### - How do I check the bots status?
 > - Go to our discord server and check the bot "Archive Bot" is online. This correlates to the bot's status on the server.
+> - 
 > ![](Images/discordbot.png)
 
 > ![](Images/projectnimbusdowntime.png)
@@ -30,7 +31,7 @@ The github is https://github.com/SpicyCitrus/Project-Nimbus
 > - You may request that your username is completely removed from all databases/logs of the bot (this includes all records so you will no longer be shown on our pie chart)
 > - You may request to not be filmed during interviews/meetings regarding Project Nimbus
 ### How often does Project Nimbus get updates?
-> Pretty often
+> - Pretty often
 ### I did ~rekit,~rkxp,~rkhighway and ~rktotems and its not giving me a kit
 - Here are some reasons why our bot may not being providing your kit
 > 1. You may have been blacklisted (contact support for more info on blacklistings)
