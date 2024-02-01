@@ -2,7 +2,7 @@
 A simple multi server utility & kitbot for anarchy minecraft servers!
 Any issues/concerns with the bot can be reported in the discord: https://discord.gg/M8xVFn73FC
 # For people using the website:
-The github is https://github.com/SpicyCitrus/Project-Nimbus
+The GitHub is https://github.com/SpicyCitrus/Project-Nimbus
 # FAQ
 ### Where is the code?
 > - The project is currently not open sourced due to the people that are gonna steal the code and claim it as theirs.
@@ -32,21 +32,21 @@ The github is https://github.com/SpicyCitrus/Project-Nimbus
 > - You may request to not be filmed during interviews/meetings regarding Project Nimbus
 ### How often does Project Nimbus get updates?
 > - Pretty often
-### I did ~rekit,~rkxp,~rkhighway and ~rktotems and its not giving me a kit
+### I did ~rekit,~rkxp,~rkhighway and ~rktotems and I'm not reciving a kit.
 - Here are some reasons why our bot may not being providing your kit
 > 1. You may have been blacklisted (contact support for more info on blacklistings)
 > 2. You may have a prefix on your client. Make sure ~rekit is the first and only word you type when requesting a kit
-> 3. You dont have ~ on your keyboard. Sadly not all keyboards come with the ~ key so you will notice we have provided the command "~rekit" in alot of the github page. So you can copy the command (crl+c crl+v) and still use our service 
-### How to identify a fake project-nimbus staff member
-- People may claim to be project-nimbus staff so heres how to tell if they are fake or not
+> 3. You dont have the "~" character on your keyboard, you can also copy and paste ~rekit, ~rkxp, ~rkhighway, and ~rktotems.
+### How to identify a fake Project-Nimbus staff member
+- People may claim to be Project-Nimbus staff and heres how to check.
 > 1. All Project Nimbus staff have Helper role in the 0b0t archive discord server
 > 2. Project-Nimbus staff will never ask you for your coords.
-> 3. Project-Nimbus does not log/obtain coordnates, read the Privacy Policy for more info
+> 3. Project-Nimbus does not log/obtain coords, read the Privacy Policy for more info
 ### Terms Of Service
 - Don't try to crash or kick the bot, (anything negative to the bot)
 - Don't try to spam the bots kits, that will result in a blacklist.
 - Attempting to crack, gain trust of the owners to get the code, or try to modify the code.
-- Abusing a glitch in the code allowing more then 1 kit at a time.
+- Abusing any glitch in the code.
 - Not reporting a glitch to the owners.
 > Breaking any of these will result in a blacklist.
 # Privacy Policy
